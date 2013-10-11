@@ -1,0 +1,35 @@
+/curc/tools/grading/scripts/check
+
+honghua
+/home/honghua/HPSC-Fall-2013/lab/lab-01
+Looking for Makefile
+make clean sucessful
+make sucessful
+make run sucessful
+Looking for scaling.csv
+0            1
+1           10
+2          100
+3         1000
+4        10000
+5       100000
+6      1000000
+7     10000000
+8    100000000
+Name: key, dtype: int64
+0     620.691657
+1    2539.271789
+2    3512.978041
+3    3612.628551
+4    1734.894550
+5    1439.724220
+6     762.485921
+7     772.924540
+8     763.959881
+Name: value, dtype: float64
+Looking for scaling.png
+-----------------------------
+Total points:  15 out of 45
+-----------------------------
+The remaining points are based on the quality of your work.
+
