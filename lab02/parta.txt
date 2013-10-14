@@ -1,0 +1,8 @@
+                time(sec)   MFLOPS      latency
+intel-slow      7.14        140         20.0
+intel-novec     7.14        140         20.0
+intel-fast      3.69        271         10.3
+
+gcc-slow        7.14        140         20.0
+gcc-novec       7.14        140         20.0
+gcc-fast        7.14        140         20.0

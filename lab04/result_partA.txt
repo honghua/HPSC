@@ -1,0 +1,91 @@
+
+################################################
+matrix.10x10 starting ... 
+
+txt file reading time: 
+real	0m0.141s
+user	0m0.003s
+sys	0m0.010s
+
+hdf file reading time: 
+real	0m0.145s
+user	0m0.002s
+sys	0m0.009s
+
+################################################
+matrix.100x100 starting ... 
+
+txt file reading time: 
+real	0m0.024s
+user	0m0.010s
+sys	0m0.007s
+
+hdf file reading time: 
+real	0m0.016s
+user	0m0.002s
+sys	0m0.007s
+
+################################################
+matrix.500x500 starting ... 
+
+txt file reading time: 
+real	0m0.238s
+user	0m0.214s
+sys	0m0.018s
+
+hdf file reading time: 
+real	0m0.025s
+user	0m0.004s
+sys	0m0.010s
+
+################################################
+matrix.1000x1000 starting ... 
+
+txt file reading time: 
+real	0m0.902s
+user	0m0.825s
+sys	0m0.069s
+
+hdf file reading time: 
+real	0m0.039s
+user	0m0.002s
+sys	0m0.029s
+
+################################################
+matrix.5000x5000 starting ... 
+
+txt file reading time: 
+real	0m19.988s
+user	0m18.836s
+sys	0m1.104s
+
+hdf file reading time: 
+real	0m0.545s
+user	0m0.003s
+sys	0m0.534s
+
+################################################
+matrix.10000x10000 starting ... 
+
+txt file reading time: 
+real	1m18.780s
+user	1m14.504s
+sys	0m4.088s
+
+hdf file reading time: 
+real	0m2.192s
+user	0m0.002s
+sys	0m2.156s
+
+################################################
+matrix.15000x15000 starting ... 
+
+txt file reading time: 
+real	2m58.514s
+user	2m48.395s
+sys	0m9.666s
+
+hdf file reading time: 
+real	0m4.779s
+user	0m0.002s
+sys	0m4.738s

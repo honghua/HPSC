@@ -1,0 +1,72 @@
+/curc/tools/grading/scripts/check
+
+honghua
+/home/honghua/HPSC-Fall-2013/lab/lab-02
+Looking for Makefile
+make clean sucessful
+
+-----------------------------
+testing pi
+-----------------------------
+make intel-novec
+7.13632
+140.128
+19.9817
+make intel-fast
+3.69359
+270.739
+10.3421
+make gcc-novec
+7.13603
+140.134
+19.9809
+make gcc-fast
+7.13631
+140.128
+19.9817
+
+-----------------------------
+Total points A:  18 out of 18
+Looking for parta.txt
+This is worth 10 points
+
+-----------------------------
+testing matrix multiply
+-----------------------------
+test:
+python time   : 0.214318990707
+execution time: 0.274408102036
+correct solution: +3
+test:
+python time   : 0.332971811295
+execution time: 0.275279045105
+correct solution: +3
+test:
+python time   : 0.503379106522
+execution time: 0.277719974518
+correct solution: +3
+test:
+python time   : 2.88705706596
+execution time: 0.288359880447
+correct solution: +3
+test:
+python time   : 2.91105604172
+execution time: 0.303133010864
+correct solution: +3
+test:
+python time   : 0.292143106461
+execution time: 0.273894071579
+correct solution: +3
+Looking for partb.png
+Congrats, your code is faster than python: +10
+
+
+-----------------------------
+Total points:  46 out of 46
+-----------------------------
+The remaining points (20) are based on the quality of your work.
+parta.txt........ 10 points
+partb.png.........10 points
+
+
+
